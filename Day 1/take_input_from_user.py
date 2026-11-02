@@ -1,3 +1,3 @@
 inp=input("What is your name ?")
 
-print("Nice to meet you " + "{inp}")
+print("Nice to meet you " + inp )
